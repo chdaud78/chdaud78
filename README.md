@@ -1,11 +1,8 @@
 <!--
 노란색
 -->
-![header](https://capsule-render.vercel.app/api?type=shark&color=FFFF00&height=170&section=header&text=%20Chongmyeong&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100&animation=blinking)
-<p align="center">
-Hi there 😄
-</p>
-<br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=%20Chongmyeong&fontColor=ffffff&fontAlignX=45&fontAlignY=65&fontSize=100&animation=twinkling)
+<h3 align="center">FRONTEND DEVELOPER</h3>
 <h3 align="center"> 🍒 Tech 🍒 </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/></a>&nbsp 
@@ -14,19 +11,22 @@ Hi there 😄
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"/></a>&nbsp
 </p>
 <br>
 
 <h3 align="center"> 📬 Contacts 📬 </h3>
 <p align="center">
-  <a href="mailto:chdaud36@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=chdaud36@gmail.com"/></a>
+  <a href="mailto:chdaud36@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=chdaud36@gmail.com"/></a>
+  <a href="mailto:qkrri56@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=qkrri56@naver.com"/></a>
+  <a href="chdaud78.github.io"><img src="https://img.shields.io/badge/TechBlog-90caf9?style=for-the-badge&logo=Homebridge&logoColor=white"/></a>
 </p>
 
 <!--
 [![reyeon1209's github stats](https://github-readme-stats.vercel.app/api?username=reyeon1209&count_private=true&show_icons=true&theme=buefy&hide_border=true&include_all_commits=1)](https://github.com/reyeon1209/github-readme-stats)  
 -->
 
-![footer](https://capsule-render.vercel.app/api?type=shark&color=FFFF00&height=150&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 
 <!--
 **chdaud78/chdaud78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
