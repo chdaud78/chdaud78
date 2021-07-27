@@ -9,9 +9,7 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white"/></a>&nbsp
 </p>
 
-<p align="center">
-  <h2>contact</h2>
-  </p>
+ <h2 align="center">contact</h2>
 
 <!--
 **chdaud78/chdaud78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
