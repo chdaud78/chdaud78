@@ -3,15 +3,6 @@
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=%20Chongmyeong&fontColor=ffffff&fontAlignX=45&fontAlignY=65&fontSize=100&animation=twinkling)
 
-```javascript
-//                     ███████╗    ██████╗    ██████   ██████╗
-//                     ██   ██║   ██╔════╝    ██╔══██ ██╝  ██║
-//                     ███████║   ██║         ██║    ██╝   ██║
-//                     ██╔════╝   ██║         ██║          ██║
-//                     ██║        ╚██████╗    ██║          ██║
-//                     ╚═╝         ╚═════╝    ╚═╝          ╚═╝
-```
-
 <h3 align="center">FRONTEND DEVELOPER</h3>
 <h3 align="center"> 🍒 Tech 🍒 </h3>
 <p align="center">
@@ -33,6 +24,17 @@
   <a href="mailto:qkrri56@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=qkrri56@naver.com"/></a>
   <a href="https://chdaud78.github.io"><img src="https://img.shields.io/badge/TechBlog-90caf9?style=for-the-badge&logo=Homebridge&logoColor=white"/></a>
 </p>
+
+
+
+```javascript
+//                                                                        ███████╗    ██████╗    ██████   ██████╗
+//                                                                        ██   ██║   ██╔════╝    ██╔══██ ██╝  ██║
+//                                                                        ███████║   ██║         ██║    ██╝   ██║
+//                                                                        ██╔════╝   ██║         ██║          ██║
+//                                                                        ██║        ╚██████╗    ██║          ██║
+//                                                                        ╚═╝         ╚═════╝    ╚═╝          ╚═╝
+```
 
 <!--
 [![reyeon1209's github stats](https://github-readme-stats.vercel.app/api?username=reyeon1209&count_private=true&show_icons=true&theme=buefy&hide_border=true&include_all_commits=1)](https://github.com/reyeon1209/github-readme-stats)  
