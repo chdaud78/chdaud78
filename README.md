@@ -2,6 +2,16 @@
 노란색
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=%20Chongmyeong&fontColor=ffffff&fontAlignX=45&fontAlignY=65&fontSize=100&animation=twinkling)
+
+```javascript
+// ███████╗    ██████╗    ██████   ██████╗
+// ██   ██║   ██╔════╝    ██╔══██ ██╝  ██║
+// ███████║   ██║         ██║    ██╝   ██║
+// ██╔════╝   ██║         ██║          ██║
+// ██║        ╚██████╗    ██║          ██║
+// ╚═╝         ╚═════╝    ╚═╝          ╚═╝
+```
+
 <h3 align="center">FRONTEND DEVELOPER</h3>
 <h3 align="center"> 🍒 Tech 🍒 </h3>
 <p align="center">
