@@ -23,7 +23,7 @@
   <a href="mailto:chdaud36@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=chdaud36@gmail.com"/></a>
   <a href="mailto:qkrri56@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=qkrri56@naver.com"/></a>
   <a href="https://velog.io/@chdaud78"><img src="https://img.shields.io/badge/TechBlog-90caf9?style=for-the-badge&logo=Homebridge&logoColor=black"/></a>
-  <a href="https://chdaud78.github.io"><img src="https://img.shields.io/badge/TechBlog-90caf9?style=for-the-badge&logo=Homebridge&logoColor=white"/></a>
+  <a href="https://chdaud78.github.io"><img src="https://img.shields.io/badge/TechBlog-7a7aea?style=for-the-badge&logo=Homebridge&logoColor=white"/></a>
 </p>
 
 
